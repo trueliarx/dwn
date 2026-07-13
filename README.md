@@ -1,6 +1,6 @@
 # dwn
 
-A tiny, dependency-free HTTPS downloader for Windows. Written in plain C with WinINet, built to be as small as possible.
+A tiny, dependency-free HTTPS downloader for Windows. Written in plain C with WinINet, built to be as small as possible (3-4kb).
 
 ## Usage
 
